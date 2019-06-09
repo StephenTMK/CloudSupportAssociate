@@ -26,7 +26,7 @@ http://www.aosabook.org/en/distsys.html
 1.2. The Basics
 
 
-分布式：
+distributed:
 
 1 live on 10 machines and then summed up
 1 cache is too big to 10 machines to remember where there is a summary
